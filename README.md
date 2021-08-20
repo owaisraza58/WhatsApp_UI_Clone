@@ -1,6 +1,8 @@
 # whatsapp_ui_clone
 
-Trying to clone WhatsApp ui
+Trying to clone WhatsApp ui. The UI has call list screen , chat , list screen and statuview screen. Developers are allowed to clone, edit , commit code. You can add camera and chat screen. This will help me to learn too and ypu also have a fun time learning flutter.
+
+Idea and inpired by @iampawan
 
 ## Getting Started
 
